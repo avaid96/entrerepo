@@ -5,8 +5,18 @@ Starting a business is hard and the web is saturated with resources that can hel
 
 I hope you like it and please do contribute.
 
-##  Incorporation
+##  Legal
+
+### Incorporation
+
+### Patenting
 
 ##  Tech
 
 ##  Finance
+
+### Financing
+
+### Accounting
+
+##  Marketing
