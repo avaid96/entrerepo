@@ -21,6 +21,8 @@ I hope you like it and please do contribute.
 
 ##  Marketing
 
+##  Competitions
+
 ##  Success Stories
 
 ##  Other resources
