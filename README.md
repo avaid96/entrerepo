@@ -43,4 +43,8 @@ I hope you like it and please do contribute. I will do my best to attend to pull
 
 ##  Failure Stories
 
+##  Books
+1.  http://blakemasters.com/peter-thiels-cs183-startup Notes from Peter Thiel's start-up class at Stanford
+
+
 ##  Other resources
