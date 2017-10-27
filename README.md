@@ -38,5 +38,9 @@ I hope you like it and please do contribute. I will do my best to attend to pull
     A great article from somebody at Greylock Partners about what she looks for in a pitch
 
 ##  Success Stories
+1.  https://www.indiehackers.com/
+    Some stories from indie hackers who built successful businesses from their hacks
+
+##  Failure Stories
 
 ##  Other resources
