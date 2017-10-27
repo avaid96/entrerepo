@@ -15,9 +15,11 @@ I hope you like it and please do contribute. I will do my best to attend to pull
 
 ### What should I use
 1.  https://stackshare.io/
+    You can search up what other successful companies have used as their stack here
 
 ### Learning technologies
 1.  https://learnxinyminutes.com/
+    You can look up short guides for various languages and tools here
 
 ##  Finance
 
