@@ -13,6 +13,12 @@ I hope you like it and please do contribute. I will do my best to attend to pull
 
 ##  Tech
 
+### What should I use
+1.  https://stackshare.io/
+
+### Learning technologies
+1.  https://learnxinyminutes.com/
+
 ##  Finance
 
 ### Financing
