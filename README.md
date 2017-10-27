@@ -36,6 +36,8 @@ I hope you like it and please do contribute. I will do my best to attend to pull
 ### Pitching
 1.  https://news.greylock.com/what-do-i-look-for-in-a-pitch-866355bddb3
     A great article from somebody at Greylock Partners about what she looks for in a pitch
+2.  https://techcrunch.com/2015/06/08/lessons-from-a-study-of-perfect-pitch-decks-vcs-spend-an-average-of-3-minutes-44-seconds-on-them/
+    Lessons From A Study of Perfect Pitch Decks
 
 ##  Success Stories
 1.  https://www.indiehackers.com/
