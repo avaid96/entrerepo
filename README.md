@@ -44,6 +44,8 @@ I hope you like it and please do contribute. I will do my best to attend to pull
     Some stories from indie hackers who built successful businesses from their hacks
 
 ##  Failure Stories
+1.  https://www.youtube.com/watch?v=6SuFGpYQt0E
+    Jack Ma(Alibaba), "When KFC came to my city, 24 people applied for the job, 23 got it" 
 
 ##  Books
 1.  http://blakemasters.com/peter-thiels-cs183-startup Notes from Peter Thiel's start-up class at Stanford
