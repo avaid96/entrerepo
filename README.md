@@ -1,5 +1,4 @@
-#   Entrerepo
-##  Entrepreneurship links and resources
+#   Entrerepo: Entrepreneurship links and resources
 
 Starting a business is hard and the web is filled with resources that can help. However, we couldn't seem to find a good, centralized resource to for entrepreneurial inspiration. So, we decided to start maintaining this repository to be that resource.
 
