@@ -29,7 +29,7 @@ I hope you like it and please do contribute. I will do my best to attend to pull
 
 ### Accounting
 
-##  Marketing
+##  Sales and Marketing
 
 ##  Competitions
 
