@@ -31,6 +31,10 @@ I hope you like it and please do contribute. I will do my best to attend to pull
 
 ##  Competitions
 
+### Pitching
+1.  https://news.greylock.com/what-do-i-look-for-in-a-pitch-866355bddb3
+    A great article from somebody at Greylock Partners about what she looks for in a pitch
+
 ##  Success Stories
 
 ##  Other resources
