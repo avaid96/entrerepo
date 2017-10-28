@@ -12,6 +12,8 @@ I hope you like it and **please do contribute**. I will do my best to attend to 
 
 ##  Tech
 
+### Wireframing/Design
+
 ### What should I use
 1.  https://stackshare.io/
     You can search up what other successful companies have used as their stack here
