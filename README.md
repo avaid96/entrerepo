@@ -55,4 +55,5 @@ I hope you like it and **please do contribute**. I will do my best to attend to 
 ##  Other resources
 1.  https://blog.yalabot.com/i-got-sick-of-commoditized-content-for-entrepreneurs-heres-what-i-started-watching-instead-cdf9a5b28652 A list of some great YouTube channels for entrepreneurship
 2.  http://startupclass.samaltman.com/ Sam Altman(YCombinator) on how to start a start-up 
-3.  https://www.youtube.com/watch?v=Ygr3rx4hSsc
+3.  https://www.youtube.com/watch?v=Ygr3rx4hSsc What's special about unicorns
+4.  https://techcrunch.com/2017/11/07/what-happens-when-you-sell-your-startup/ What happens when you sell your start-up
