@@ -13,6 +13,8 @@ I hope you like it and **please do contribute**. I will do my best to attend to 
 ##  Tech
 
 ### Wireframing/Design
+1.  https://logojoy.com/ 
+    Easily style a logo for your company
 
 ### What should I use
 1.  https://stackshare.io/
