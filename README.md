@@ -27,6 +27,8 @@ If like it, **please do contribute with PRs**
     You can find a useful [security checklist here](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README.md)
 
 ##  Finance
+1.  http://christophjanz.blogspot.com/2017/11/unsure-how-much-you-should-pay-yourself.html
+    How much should founders pay themselves
 
 ### Financing
 
