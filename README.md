@@ -29,6 +29,7 @@ If like it, **please do contribute with PRs**
 ##  Finance
 1.  http://christophjanz.blogspot.com/2017/11/unsure-how-much-you-should-pay-yourself.html
     How much should founders pay themselves
+2.  https://hbr.org/2017/12/does-your-startup-have-a-spending-strategy Startup spending strategies
 
 ### Financing
 
@@ -61,3 +62,4 @@ If like it, **please do contribute with PRs**
 2.  http://startupclass.samaltman.com/ Sam Altman(YCombinator) on how to start a start-up 
 3.  https://www.youtube.com/watch?v=Ygr3rx4hSsc What's special about unicorns
 4.  https://techcrunch.com/2017/11/07/what-happens-when-you-sell-your-startup/ What happens when you sell your start-up
+5.  https://techcrunch.com/gallery/startup-truths/ A collection of startup truths
