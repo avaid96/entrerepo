@@ -32,6 +32,7 @@ If like it, **please do contribute with PRs**
 2.  https://hbr.org/2017/12/does-your-startup-have-a-spending-strategy Startup spending strategies
 
 ### Financing
+1.  https://medium.com/@gsvpioneer/6-articles-you-must-read-before-fundraising-for-your-startup-9e4dba50e6c5 Fundraising articles
 
 ### Accounting
 
