@@ -66,3 +66,4 @@ If like it, **please do contribute with PRs**
 3.  https://www.youtube.com/watch?v=Ygr3rx4hSsc What's special about unicorns
 4.  https://techcrunch.com/2017/11/07/what-happens-when-you-sell-your-startup/ What happens when you sell your start-up
 5.  https://techcrunch.com/gallery/startup-truths/ A collection of startup truths
+6.  https://blog.usejournal.com/what-i-learned-from-reading-every-amazon-shareholders-letter-cdc35f309e8b Some learnings from Amazon and Jeff Bezos
