@@ -27,6 +27,7 @@ If like it, **please do contribute with PRs**
     You can look up short guides for various languages and tools here
 2.  https://github.com/FallibleInc/security-guide-for-developers
     You can find a useful [security checklist here](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README.md)
+3.  http://www.estimapp.com/ A free cross-platform app that helps estimate development costs
 
 ##  Finance
 1.  http://christophjanz.blogspot.com/2017/11/unsure-how-much-you-should-pay-yourself.html
