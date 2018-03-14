@@ -40,6 +40,7 @@ If like it, **please do contribute with PRs**
 ### Accounting
 
 ##  Sales and Marketing
+1. https://news.greylock.com/what-are-growth-teams-for-and-what-do-they-work-on-a339d0c0dee3
 
 ##  Competitions
 
